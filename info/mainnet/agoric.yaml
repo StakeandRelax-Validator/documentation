@@ -2,3 +2,4 @@ website: https://agoric.com
 twitter: https://x.com/agoric
 discord: https://discord.gg/invite/qDW8DRes4s
 description: The javascript hub of Cosmos
+go_version: 1.22.7
